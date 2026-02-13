@@ -1,0 +1,31 @@
+# =========================
+# ML / AI artifacts (DO NOT COMMIT)
+# =========================
+models/
+model/
+data/
+legal_kb/
+structured_arguments/
+transcripts/
+anaconda_projects/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Python / environment
+# =========================
+__pycache__/
+*.pyc
+venv/
+.env
+
+# =========================
+# Model weights
+# =========================
+*.pt
+*.bin
+*.safetensors
+checkpoint-*/

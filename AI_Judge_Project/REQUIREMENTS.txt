@@ -1,0 +1,30 @@
+To connect your ML model for judging and legal assistance, I need some information about your setup:
+
+Questions:
+
+Where is your ML model hosted? (e.g., Hugging Face API, OpenAI, custom API endpoint, AWS SageMaker, Google Cloud AI, Azure ML, etc.)
+Do you have an API endpoint URL for your model?
+What authentication does it require? (API key, bearer token, etc.)
+What's the input/output format?
+For legal assistance: What does your model expect as input and return?
+For judgment: What does your model expect as input and return?
+Is it one model or two separate models? (one for legal assistance, one for judging)
+Once you provide these details, I can:
+
+Create environment variable setup for your API keys
+Integrate your ML model into the backend server
+Replace the mock responses with real ML model calls
+Handle the request/response formatting
+Example integration points in the code:
+
+For Legal Assistant - Currently this code generates random responses:
+
+// In DualChatInterface - line that needs ML integration
+const assistantContent = generateAssistantResponse(content, "A");
+For Judge - Currently this code uses predefined templates:
+
+// In server/index.tsx - function that needs ML integration
+function generateJudgment(caseTitle) { ... }
+Please share your ML model details and I'll integrate it properly!
+
+debate/2
