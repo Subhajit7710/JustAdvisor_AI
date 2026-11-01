@@ -1,0 +1,4 @@
+# Optional: LegalBERT argument structuring (tags each sentence as Claim / Evidence / LegalRule / Rebuttal / Conclusion).
+# CPU-only PyTorch is enough. If this fails to install, the app still works without the tags.
+torch
+transformers>=4.40

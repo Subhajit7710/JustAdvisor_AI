@@ -1,0 +1,127 @@
+[
+  {
+    "id": "IPC_420",
+    "title": "Cheating and dishonestly inducing delivery of property",
+    "text": "Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person shall be punished with imprisonment or fine or both."
+  },
+  {
+    "id": "IPC_406",
+    "title": "Criminal breach of trust",
+    "text": "Whoever commits criminal breach of trust shall be punished with imprisonment or fine or both."
+  },
+  {
+    "id": "IPC_415",
+    "title": "Cheating",
+    "text": "Whoever, by deceiving any person, fraudulently or dishonestly induces the person to deliver property is said to cheat."
+  },
+  {
+    "id": "IPC_417",
+    "title": "Punishment for cheating",
+    "text": "Whoever cheats shall be punished with imprisonment or fine or both."
+  },
+  {
+    "id": "IPC_463",
+    "title": "Forgery",
+    "text": "Whoever makes any false document with intent to cause damage or injury is said to commit forgery."
+  },
+  {
+    "id": "IPC_468",
+    "title": "Forgery for purpose of cheating",
+    "text": "Whoever commits forgery intending that the document forged shall be used for cheating shall be punished."
+  },
+  {
+    "id": "IPC_471",
+    "title": "Using forged document as genuine",
+    "text": "Whoever fraudulently uses as genuine any forged document shall be punished."
+  },
+  {
+    "id": "IPC_34",
+    "title": "Acts done by several persons in furtherance of common intention",
+    "text": "When a criminal act is done by several persons in furtherance of the common intention, each is liable."
+  },
+  {
+    "id": "IPC_120B",
+    "title": "Criminal conspiracy",
+    "text": "Whoever is a party to a criminal conspiracy shall be punished."
+  },
+  {
+    "id": "IPC_107",
+    "title": "Abetment",
+    "text": "A person abets the doing of a thing who instigates or aids in doing that thing."
+  },
+  {
+    "id": "CONTRACT_10",
+    "title": "What agreements are contracts",
+    "text": "All agreements are contracts if made by free consent of parties competent to contract for a lawful consideration and lawful object."
+  },
+  {
+    "id": "CONTRACT_17",
+    "title": "Fraud",
+    "text": "Fraud includes acts committed with intent to deceive another party or induce them to enter into a contract."
+  },
+  {
+    "id": "CONTRACT_18",
+    "title": "Misrepresentation",
+    "text": "Misrepresentation means a positive assertion not warranted by the information of the person making it."
+  },
+  {
+    "id": "CONTRACT_23",
+    "title": "What considerations and objects are lawful",
+    "text": "The consideration or object of an agreement is lawful unless forbidden by law or opposed to public policy."
+  },
+  {
+    "id": "CONTRACT_39",
+    "title": "Effect of refusal to perform promise",
+    "text": "When a party refuses to perform, the promisee may put an end to the contract."
+  },
+  {
+    "id": "CONTRACT_73",
+    "title": "Compensation for loss or damage caused by breach of contract",
+    "text": "When a contract has been broken, the party suffering is entitled to compensation for any loss."
+  },
+  {
+    "id": "CONTRACT_74",
+    "title": "Compensation for breach where penalty stipulated",
+    "text": "Compensation not exceeding the penalty stipulated may be awarded."
+  },
+  {
+    "id": "EVIDENCE_3",
+    "title": "Definition of evidence",
+    "text": "Evidence means and includes all statements and documents permitted by the court."
+  },
+  {
+    "id": "EVIDENCE_24",
+    "title": "Confession caused by inducement",
+    "text": "A confession caused by inducement, threat or promise is irrelevant in criminal proceedings."
+  },
+  {
+    "id": "EVIDENCE_45",
+    "title": "Opinions of experts",
+    "text": "When the court has to form an opinion on science or art, opinions of experts are relevant."
+  },
+  {
+    "id": "EVIDENCE_65B",
+    "title": "Electronic records admissibility",
+    "text": "Electronic records shall be admissible if conditions under Section 65B are satisfied."
+  },
+  {
+    "id": "CPC_9",
+    "title": "Courts to try all civil suits",
+    "text": "Courts shall have jurisdiction to try all suits of a civil nature."
+  },
+  {
+    "id": "CPC_151",
+    "title": "Inherent powers of court",
+    "text": "Nothing shall limit the inherent power of the court to make orders for justice."
+  },
+  {
+    "id": "CRPC_41",
+    "title": "When police may arrest without warrant",
+    "text": "Police may arrest a person without warrant in cognizable offences."
+  },
+  {
+    "id": "CRPC_313",
+    "title": "Power to examine the accused",
+    "text": "Court may examine the accused after prosecution evidence is complete."
+  }
+]

@@ -1,0 +1,12 @@
+AI JUDGE - VERSION 2 (NEW)
+==========================
+Trained on     : 2026-10-12 15:55
+Base model     : Qwen/Qwen3-4B-Instruct-2507
+Precision      : bf16 LoRA (r=16)
+Dataset        : generate_judge_dataset_v2.py (2000 train / 100 test, 5 cases)
+Epochs         : 1
+Test verdict accuracy: 51/60 = 85.0%
+
+This is NOT the old judge in AI_Judge_Project/judge_model (v1, Mistral-7B-v0.1,
+random-verdict dataset). Do not mix the two: they use different base models
+and different prompt formats. Use build_prompt() from generate_judge_dataset_v2.py.

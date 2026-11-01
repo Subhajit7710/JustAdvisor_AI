@@ -1,0 +1,5 @@
+FROM ./judge-v2-q8_0.gguf
+PARAMETER temperature 0
+PARAMETER num_ctx 4096
+PARAMETER stop "<|endoftext|>"
+PARAMETER stop "<|im_end|>"

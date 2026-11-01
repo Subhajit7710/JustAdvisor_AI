@@ -1,0 +1,6 @@
+export_for_cpu.py (run after training) writes these files into this folder:
+  judge-v2-q8_0.gguf     the trained judge (about 4.3 GB)
+  Modelfile              tells Ollama how to load it
+  prompt_format.json     the exact prompt wrapper used in training
+  MODEL_INFO.txt         version label
+Then:  ollama create judge-v2 -f Modelfile     (run inside this folder)

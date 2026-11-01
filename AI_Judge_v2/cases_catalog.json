@@ -1,0 +1,101 @@
+[
+  {
+    "id": "CR-420",
+    "title": "Cheating over an unpaid advance for goods",
+    "nature": "criminal",
+    "law": "Section 420 IPC (cheating and dishonestly inducing delivery of property)",
+    "lawyer_a_role": "the Prosecution (complainant Ramesh Kumar)",
+    "lawyer_b_role": "the Accused (Suresh Patil)",
+    "acc": "Suresh Patil",
+    "comp": "Ramesh Kumar",
+    "facts": "It is alleged that the accused, Suresh Patil, received an advance payment of Rs. 7,50,000 from the complainant, Ramesh Kumar, for supplying industrial machinery within 60 days. The goods were not delivered and the advance has not been refunded. The complainant alleges cheating. The accused denies any dishonest intention.",
+    "issues": [
+      "Whether the accused made a false representation to the complainant.",
+      "Whether the accused had a dishonest intention at the time of making the promise.",
+      "Whether the complainant was induced by the representation to deliver money or property."
+    ],
+    "possible_verdicts": [
+      "GUILTY",
+      "NOT GUILTY"
+    ]
+  },
+  {
+    "id": "CR-406",
+    "title": "Criminal breach of trust over company funds",
+    "nature": "criminal",
+    "law": "Section 406 IPC (criminal breach of trust)",
+    "lawyer_a_role": "the Prosecution (complainant Anita Sharma)",
+    "lawyer_b_role": "the Accused (Vikram Singh)",
+    "acc": "Vikram Singh",
+    "comp": "Anita Sharma",
+    "facts": "It is alleged that the accused, Vikram Singh, an accounts manager in the firm of the complainant, Anita Sharma, was entrusted with Rs. 12,00,000 of company funds for payment of supplier dues. The funds were not applied for that purpose. The firm alleges criminal breach of trust. The accused denies misappropriation.",
+    "issues": [
+      "Whether the accused was entrusted with the property or had dominion over it.",
+      "Whether the accused dishonestly misappropriated the property or converted it to his own use."
+    ],
+    "possible_verdicts": [
+      "GUILTY",
+      "NOT GUILTY"
+    ]
+  },
+  {
+    "id": "CR-FORGERY",
+    "title": "Forged sale deed of a plot",
+    "nature": "criminal",
+    "law": "Sections 468 and 471 IPC (forgery for the purpose of cheating, and using a forged document as genuine)",
+    "lawyer_a_role": "the Prosecution (complainant Lakshmi Nair)",
+    "lawyer_b_role": "the Accused (Rahul Mehta)",
+    "acc": "Rahul Mehta",
+    "comp": "Lakshmi Nair",
+    "facts": "It is alleged that a sale deed transferring the complainant Lakshmi Nair's plot in Pune to the accused, Rahul Mehta, is forged, and that the accused used it to claim ownership and raise Rs. 25,00,000. The accused says the deed is genuine and that he bought the plot.",
+    "issues": [
+      "Whether the sale deed is a forged document.",
+      "Whether the accused made the forged deed or used it knowing it to be forged.",
+      "Whether the forgery was committed for the purpose of cheating."
+    ],
+    "possible_verdicts": [
+      "GUILTY",
+      "NOT GUILTY"
+    ]
+  },
+  {
+    "id": "CV-73",
+    "title": "Delayed construction contract and compensation",
+    "nature": "civil",
+    "law": "Section 73 of the Indian Contract Act, 1872 (compensation for breach of contract)",
+    "lawyer_a_role": "the Plaintiff (Neha Gupta)",
+    "lawyer_b_role": "the Defendant (Arjun Reddy)",
+    "acc": "Arjun Reddy",
+    "comp": "Neha Gupta",
+    "facts": "The plaintiff, Neha Gupta, engaged the defendant contractor, Arjun Reddy, to build a two-storey house for Rs. 25,00,000, to be completed within 180 days. The work was not completed within that period. The plaintiff claims compensation under Section 73 of the Indian Contract Act, 1872. The defendant disputes liability.",
+    "issues": [
+      "Whether a valid contract existed between the parties.",
+      "Whether the defendant breached the contract without lawful excuse.",
+      "Whether the plaintiff suffered loss caused by the breach."
+    ],
+    "possible_verdicts": [
+      "CLAIM ALLOWED",
+      "CLAIM DISMISSED"
+    ]
+  },
+  {
+    "id": "CV-18",
+    "title": "Investment induced by misrepresented business figures",
+    "nature": "civil",
+    "law": "Sections 18 and 19 of the Indian Contract Act, 1872 (misrepresentation; contract voidable)",
+    "lawyer_a_role": "the Plaintiff (Kavita Joshi)",
+    "lawyer_b_role": "the Defendant (Imran Shaikh)",
+    "acc": "Imran Shaikh",
+    "comp": "Kavita Joshi",
+    "facts": "The plaintiff, Kavita Joshi, bought a stake in the defendant Imran Shaikh's business, a bakery chain, for Rs. 12,00,000 after the defendant shared its financial figures. The plaintiff seeks to set aside the contract for misrepresentation under Sections 18 and 19 of the Indian Contract Act, 1872, and a refund. The defendant disputes the claim.",
+    "issues": [
+      "Whether the defendant made a false representation of fact.",
+      "Whether the representation induced the plaintiff to enter into the contract.",
+      "Whether the plaintiff could not have discovered the truth with ordinary diligence."
+    ],
+    "possible_verdicts": [
+      "CLAIM ALLOWED",
+      "CLAIM DISMISSED"
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "prefix": "<|im_start|>user\n",
+  "suffix": "<|im_end|>\n<|im_start|>assistant\n",
+  "stop": [
+    "<|endoftext|>",
+    "<|im_end|>"
+  ],
+  "base_model": "Qwen/Qwen3-4B-Instruct-2507"
+}

@@ -1,13 +1,13 @@
 # =========================
 # ML / AI artifacts (DO NOT COMMIT)
 # =========================
-models/
-model/
-data/
-legal_kb/
-structured_arguments/
-transcripts/
-anaconda_projects/
+/models/
+/model/
+/data/
+/legal_kb/
+/structured_arguments/
+/transcripts/
+/anaconda_projects/
 
 # =========================
 # Jupyter
@@ -29,3 +29,11 @@ venv/
 *.bin
 *.safetensors
 checkpoint-*/
+
+# =========================
+# AI Judge v2: large or generated files
+# =========================
+*.gguf
+*.zip
+AI_Judge_v2/judge_model_v2/
+AI_Judge_v2/app/records/*.json

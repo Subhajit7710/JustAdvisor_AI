@@ -1,0 +1,142 @@
+[
+  {
+    "id": "CASE_001",
+    "title": "State of Maharashtra vs Mohd. Yakub",
+    "domain": "Criminal Fraud",
+    "summary": "The accused induced the complainant to invest money in a fake import business. The court held that dishonest intention existed from the beginning, constituting cheating under Section 420 IPC.",
+    "laws_used": ["IPC_420"]
+  },
+  {
+    "id": "CASE_002",
+    "title": "Ramesh Kumar vs State of Punjab",
+    "domain": "Criminal Breach of Trust",
+    "summary": "The accused misappropriated entrusted funds for personal use. The court convicted under Section 406 IPC.",
+    "laws_used": ["IPC_406"]
+  },
+  {
+    "id": "CASE_003",
+    "title": "Anil Mahajan vs Bhor Industries Ltd.",
+    "domain": "Contract Fraud",
+    "summary": "The court distinguished between breach of contract and cheating, stating that mere failure to fulfill promise does not constitute cheating unless fraudulent intent existed initially.",
+    "laws_used": ["IPC_420", "CONTRACT_73"]
+  },
+  {
+    "id": "CASE_004",
+    "title": "Hridaya Ranjan Prasad Verma vs State of Bihar",
+    "domain": "Cheating",
+    "summary": "The Supreme Court ruled that dishonest intention at the time of making the promise is essential to constitute cheating.",
+    "laws_used": ["IPC_415", "IPC_420"]
+  },
+  {
+    "id": "CASE_005",
+    "title": "S.W. Palanitkar vs State of Bihar",
+    "domain": "Corporate Fraud",
+    "summary": "Directors were accused of siphoning funds. The court examined criminal liability in contractual relationships.",
+    "laws_used": ["IPC_406", "IPC_420"]
+  },
+  {
+    "id": "CASE_006",
+    "title": "Dalip Kaur vs Jagnar Singh",
+    "domain": "Civil vs Criminal Dispute",
+    "summary": "Court held that civil disputes should not be converted into criminal cases unless clear fraudulent intention is proven.",
+    "laws_used": ["IPC_420"]
+  },
+  {
+    "id": "CASE_007",
+    "title": "Kishan Singh vs Gurpal Singh",
+    "domain": "Property Fraud",
+    "summary": "Sale deed was forged to deceive buyer. Accused convicted for forgery and cheating.",
+    "laws_used": ["IPC_468", "IPC_471"]
+  },
+  {
+    "id": "CASE_008",
+    "title": "Indian Oil Corporation vs NEPC India Ltd.",
+    "domain": "Commercial Fraud",
+    "summary": "The Supreme Court ruled that criminal proceedings can coexist with civil remedies in cases of fraudulent conduct.",
+    "laws_used": ["IPC_420", "CONTRACT_73"]
+  },
+  {
+    "id": "CASE_009",
+    "title": "Vesa Holdings vs State of Kerala",
+    "domain": "Contractual Breach",
+    "summary": "The court emphasized distinction between dishonest inducement and breach of promise.",
+    "laws_used": ["CONTRACT_73"]
+  },
+  {
+    "id": "CASE_010",
+    "title": "Alpic Finance Ltd vs P. Sadasivan",
+    "domain": "Financial Fraud",
+    "summary": "Court ruled that deception for financial gain constitutes cheating.",
+    "laws_used": ["IPC_420"]
+  },
+  {
+    "id": "CASE_011",
+    "title": "K.C. Builders vs ACIT",
+    "domain": "Economic Offence",
+    "summary": "False statements and suppression of facts amounted to fraud against revenue authorities.",
+    "laws_used": ["IPC_420"]
+  },
+  {
+    "id": "CASE_012",
+    "title": "Medchl Chemicals vs Biological E Ltd.",
+    "domain": "Commercial Contract",
+    "summary": "Court ruled compensation must be proportional to actual damage suffered due to breach.",
+    "laws_used": ["CONTRACT_73"]
+  },
+  {
+    "id": "CASE_013",
+    "title": "Rashmi Kumar vs Mahesh Kumar",
+    "domain": "Criminal Breach of Trust",
+    "summary": "Husband misappropriated wife's property; convicted under criminal breach of trust.",
+    "laws_used": ["IPC_406"]
+  },
+  {
+    "id": "CASE_014",
+    "title": "Devender Kumar vs State of Haryana",
+    "domain": "Evidence Law",
+    "summary": "Electronic records admitted under Section 65B of Evidence Act.",
+    "laws_used": ["EVIDENCE_65B"]
+  },
+  {
+    "id": "CASE_015",
+    "title": "Bhim Singh vs State of J&K",
+    "domain": "Illegal Detention",
+    "summary": "Court awarded compensation for illegal detention under inherent powers.",
+    "laws_used": ["CPC_151"]
+  },
+  {
+    "id": "CASE_016",
+    "title": "Kishore Samrite vs State of UP",
+    "domain": "False Litigation",
+    "summary": "Court imposed penalties for misuse of judicial process.",
+    "laws_used": ["CPC_151"]
+  },
+  {
+    "id": "CASE_017",
+    "title": "State of UP vs Deoman Upadhyaya",
+    "domain": "Confession Evidence",
+    "summary": "Court ruled that confession must be voluntary to be admissible.",
+    "laws_used": ["EVIDENCE_24"]
+  },
+  {
+    "id": "CASE_018",
+    "title": "Gopal Das vs State of Assam",
+    "domain": "Common Intention",
+    "summary": "All accused held liable for joint criminal act.",
+    "laws_used": ["IPC_34"]
+  },
+  {
+    "id": "CASE_019",
+    "title": "State of Tamil Nadu vs Nalini",
+    "domain": "Criminal Conspiracy",
+    "summary": "Court elaborated liability under criminal conspiracy law.",
+    "laws_used": ["IPC_120B"]
+  },
+  {
+    "id": "CASE_020",
+    "title": "P. Chidambaram vs Directorate of Enforcement",
+    "domain": "Economic Offences",
+    "summary": "Court discussed arrest without warrant under cognizable offence rules.",
+    "laws_used": ["CRPC_41"]
+  }
+]
